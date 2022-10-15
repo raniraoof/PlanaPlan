@@ -1,5 +1,5 @@
 # PlanaPlan
-#####Rani Raoof -- Final Project UX Designs and User Stories
+###Rani Raoof -- Final Project UX Designs and User Stories
 
 
 # User Stories
