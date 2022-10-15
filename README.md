@@ -3,7 +3,7 @@
 Rani Raoof - final project user stories & UX designs
 
 
-#User Stories
+# User Stories
 1.	As a team member, I want to schedule all my tasks in advance, so that I can plan and prepare my time accordingly to complete my tasks. 
 2.	As a person with poor time management, I want to better schedule my tasks and plans, so that I can avoid the stresses of deadlines and better manage my time.
 3.	As a team manager, I want to set time for all meetings that I have and be able to complete all required tasks that I have so that I don’t miss deadlines or double book myself.
