@@ -1,5 +1,5 @@
 # PlanaPlan
-Rani Raoof -- Final Project UX Designs and User Stories
+Rani Raoof -- Final Project UX Designs, Write-Up & User Stories
 
 
 # User Stories
@@ -12,3 +12,10 @@ Rani Raoof -- Final Project UX Designs and User Stories
 
 # UX Designs
 https://www.figma.com/file/PFcLi142NIzASv3rqTHMvs/PlanaPlan?node-id=0%3A1
+
+# Write Up
+I decided to create this app called PlanAPlan because personally, I have struggled for periods of time with time management and planning tasks that I have, no matter what other apps that I have tried to use on my phone and computer, I always tend to forget an event or a meeting that I may have.  To try and combat my issue and hopefully help others with the same, I figured that maybe if I were to make an app, something would change, and I wouldn’t forget events and meetings as often. 
+
+I wanted to keep the app as simple and try to make it as user friendly as possible at the same time. I tried to make the design of the app simple to allow end-users to have the easiest experience on the app. 
+
+
